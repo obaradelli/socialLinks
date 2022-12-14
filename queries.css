@@ -1,0 +1,16 @@
+/**************************/
+/* @MEDIA LAYOUT | CSS  */
+/**************************/
+
+@media (max-width: 48em) {
+  html {
+    min-width: 20rem;
+  }
+
+  .container {
+    width: 95%;
+  }
+  .main-a {
+    padding: 5px;
+  }
+}
