@@ -125,6 +125,7 @@ body {
   line-height: 24px;
 
   text-align: center;
+  text-decoration: none;
 
   color: var(--purple);
   transition: all 0.3s;
